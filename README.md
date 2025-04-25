@@ -32,8 +32,15 @@ Perfect for design inspiration, movie discovery, and frontend showcase.
 ## 📸 Screenshots
 
 <div align="center"> 
-  <img src="" width="280" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/2381651e-e78a-4c6a-ab05-5791635e76e7" width="480" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/de510e1f-0d42-46dc-8e2b-bcfef640023b" width="380" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/186f42b4-8b36-4f1c-815a-e66fa3cbd9ba" width="280" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/17530623-a725-40e9-8d2c-464c5ce2b4f4" width="280" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/cad44ed2-fa3a-4051-bb7d-35f31a4f6649" width="280" style="border-radius: 10px; margin: 10px;" />
 </div>
+
+
+
 
 ---
 
